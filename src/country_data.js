@@ -440,7 +440,7 @@ const rawAllCountries = [
     ['europe', 'european-union', 'ex-ussr'],
     'ee',
     '372',
-    '+... .... ......',
+    '+... ... .. ...',
   ],
   [
     'Ethiopia',
@@ -736,6 +736,7 @@ const rawAllCountries = [
     ['europe', 'european-union', 'ex-ussr'],
     'lv',
     '371',
+    '+... ... .. ...',
   ],
   [
     'Lebanon',
@@ -772,6 +773,7 @@ const rawAllCountries = [
     ['europe', 'european-union', 'ex-ussr'],
     'lt',
     '370',
+    '+... ... .. ...',
   ],
   [
     'Luxembourg',
